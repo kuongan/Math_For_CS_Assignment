@@ -1,4 +1,4 @@
-# Math_For_CS_Assignmet
+# Math_For_CS_Assignment
 ## ASSIGNMENT 1 - PERCEPTRON REPORT
 I. Introduction to the Perceptron Problem
 II. Perceptron Algorithm
